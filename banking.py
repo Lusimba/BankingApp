@@ -15,6 +15,8 @@ balance = [1000, 500, 100, 2000]
 Start = ['Yes', 'yes', 'YES']
 amo = int
 
+
+g = "Good Job"
 start = input("DO YOU WANT TO USE THE ATM: ")
 while start in Start:
   print("WELCOME TO ATM")
