@@ -16,6 +16,13 @@ Start = ['Yes', 'yes', 'YES']
 amo = int
 E = False
 AAAA = 0
+
+
+
+n = "Good Job"
+
+
+
 start = input("DO YOU WANT TO USE THE ATM: ")
 while start in Start:
   print("WELCOME TO ATM")
