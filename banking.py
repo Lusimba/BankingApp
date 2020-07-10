@@ -14,14 +14,6 @@ Pin = [1234, 2345, 3456, 4567]
 balance = [1000, 500, 100, 2000]
 Start = ['Yes', 'yes', 'YES']
 amo = int
-E = False
-AAAA = 0
-
-
-
-n = "Good Job"
-
-
 
 start = input("DO YOU WANT TO USE THE ATM: ")
 while start in Start:
